@@ -134,8 +134,8 @@ The dashboard focuses on:
 * Discount impact
 * Business performance indicators
 
-## Power BI Dashboard
-The complete Power BI dashboard is available below:
+## Dashboard
+The complete Power BI dashboard is available below: 
 [View E-Commerce Sales Customer Analytics Dashboard](E-Commerce%20Sales%20Customer%20Analytics%20Dashboard.pdf)
 
 ---
