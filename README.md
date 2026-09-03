@@ -260,7 +260,7 @@ By combining **Excel, Power Query, SQL and Power BI**, raw e-commerce data was t
 
 ## About Me
 
-**Mohammed Rinshid K**
+**MOHAMMED RINSHID K **
 
 Entry-Level Data / Business / Financial Analyst
 
